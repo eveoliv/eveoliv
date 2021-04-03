@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Everton Oliveira
-- 👀 I’m interested in C#, C++, DevOps, and '<T>' development
+- 👀 I’m interested in C#, C++, DevOps, and "<T>" development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on .net Projects
 - 📫 How to reach me https://www.linkedin.com/in/eveoliv/
